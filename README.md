@@ -1,18 +1,14 @@
 ![](https://ws2.sinaimg.cn/large/006tNbRwly1fvgrcv46jrj307u07sq4h.jpg)
-# Homework 1
-## What is data
-	
+# Homework 1 What is data
+
 |Author|Yiqing Liu|
 |---|---
 |E-mail|yiqing5@illinois.edu
 
-
-
-
 ### Question1
 What is the average/mean score of the LA County Resturant Inspections?  
 
-    **93.75**
+    93.75
 ****
 ### Question2
 How many times was facility address 17660 CHATSWORTH ST visited?  
