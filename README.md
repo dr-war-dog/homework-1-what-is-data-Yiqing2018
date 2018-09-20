@@ -35,3 +35,5 @@ What percentage of times did employee EE0000593 visit GRANADA HILLS?
 
     0.26%
 ****
+
+![](https://ws2.sinaimg.cn/large/006tNbRwly1fvgrvihpkej30sm0ae0ux.jpg)
