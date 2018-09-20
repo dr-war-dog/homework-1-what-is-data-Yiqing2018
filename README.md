@@ -12,7 +12,7 @@
 ### Question1
 What is the average/mean score of the LA County Resturant Inspections?  
 
-    _93.75_
+    **93.75**
 ****
 ### Question2
 How many times was facility address 17660 CHATSWORTH ST visited?  
