@@ -61,7 +61,8 @@ class Dataset:
 		if(number==0):
 			print("no data")
 			return None
-		return (sum/number)
+		return round((sum/number),2)
+
 	def countVisited(self,column_name,targets):
 		column_index=self.find_which_column(column_name) # list
 		count=0
