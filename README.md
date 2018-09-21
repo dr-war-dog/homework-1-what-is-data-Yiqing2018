@@ -5,32 +5,32 @@
 |---|---
 |E-mail|yiqing5@:corn:.edu
 
-### :sunflower: Question1
+### :star: Question1
 What is the average/mean score of the LA County Resturant Inspections?  
 
     93.75
 ****
-### :maple_leaf: Question2
+### :star: Question2
 How many times was facility address 17660 CHATSWORTH ST visited?  
 
     6
 ****
-### :cherry_blossom: Question3
+### :star: Question3
 How many times was facility city LANCASTER visited?  
 
     2371
 ****
-### :tulip: Question4
+### :star: Question4
 What percentage of times did employee EE0000145 visit any facility?  
 
     0.58%
 ****
-### :blossom: Question5
+### :star: Question5
 What percentage of times was facility FA0013858 visited?  
 
     0.01%
 ****
-### :cherry_blossom: Question6
+### :star: Question6
 What percentage of times did employee EE0000593 visit GRANADA HILLS?  
 
     0.26%
