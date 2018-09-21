@@ -1,4 +1,4 @@
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fvgrxaqgt6j30360360sz.jpg)
+![](https://ws1.sinaimg.cn/large/006tNbRwly1fvh59oez3dj304t04uaap.jpg)
 # Homework 1 What is data
 
 |Author|Yiqing Liu|
